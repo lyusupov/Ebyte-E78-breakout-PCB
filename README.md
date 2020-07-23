@@ -1,5 +1,16 @@
 # Breakout board for Ebyte E78 (ASR6501) module
 
+![](https://github.com/lyusupov/Ebyte-E78-breakout-PCB/blob/master/images/SoftRF-E78-pcb-1.jpg)
+
+# Schematics
+
+![](https://github.com/lyusupov/Ebyte-E78-breakout-PCB/blob/master/images/SoftRF-E78-pcb-4.jpg)
+
+# Layout
+
+![](https://github.com/lyusupov/Ebyte-E78-breakout-PCB/blob/master/images/SoftRF-E78-pcb-2.jpg)
+
+![](https://github.com/lyusupov/Ebyte-E78-breakout-PCB/blob/master/images/SoftRF-E78-pcb-3.jpg)
 
 # PCB manufacturing
 
