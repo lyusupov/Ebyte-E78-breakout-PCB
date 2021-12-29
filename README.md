@@ -14,7 +14,7 @@
 
 <br>
 
-**ATTENTION**: Silkscreen labels on PCB are applicable for ASR6**5**01 (PSoC4) version of the E78 only.<b>
+**ATTENTION**: Silkscreen labels on PCB are applicable for ASR6**5**01 (PSoC4) version of the E78 only.<br>
 These labels may or may not match to the ASR6**6**01 (STM32) version of the module.
 
 # PCB manufacturing
