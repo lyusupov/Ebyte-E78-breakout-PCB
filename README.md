@@ -1,4 +1,4 @@
-# Breakout board for Ebyte E78 (ASR6501) module
+# Breakout board for Ebyte E78 (ASR6501 or ASR6601) module
 
 ![](https://github.com/lyusupov/Ebyte-E78-breakout-PCB/blob/master/images/SoftRF-E78-pcb-1.jpg)
 
@@ -11,6 +11,11 @@
 ![](https://github.com/lyusupov/Ebyte-E78-breakout-PCB/blob/master/images/SoftRF-E78-pcb-2.jpg)
 
 ![](https://github.com/lyusupov/Ebyte-E78-breakout-PCB/blob/master/images/SoftRF-E78-pcb-3.jpg)
+
+<br>
+
+**ATTENTION**: Silkscreen labels on PCB are applicable for ASR6**5**01 (PSoC4) version of the E78 only.<b>
+These labels may or may not match to the ASR6**6**01 (STM32) version of the module.
 
 # PCB manufacturing
 
