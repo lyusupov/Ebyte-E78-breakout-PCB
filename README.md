@@ -48,3 +48,18 @@ Number|Part|Qty|Picture|Source
 1|PCB|1|![](https://s3.amazonaws.com/pcbsio/svgs/acd266beceb42dce520aaae332e4949056265371ca9e6ebcc58d4baeb6bc7b27/top.svg.s.png)|<a href="https://PCBs.io/share/4Be2g"><img src="https://s3.amazonaws.com/pcbs.io/share.png" alt="Order from PCBs.io"></img></a>
 2|1x40 male header 2.54mm|1|![](https://github.com/lyusupov/SoftRF/blob/master/documents/images/bom/m40.jpg)|[AliExpress](https://www.aliexpress.com/item/10pcs-40-Pin-1x40-Single-Row-Male-2-54-Breakable-Pin-Header-Connector-Strip-for-Arduino/32806313091.html)
 3|Female SMA-KHD|1|![](https://github.com/lyusupov/SoftRF/raw/master/documents/images/bom/sma-khd.jpg)|[AliExpress](https://www.aliexpress.com/item/10-Pcs-SMA-Female-Jack-Solder-Edge-1-6mm-Space-PCB-Mount-Straight-RF-Connector-New/32842094243.html) <!-- (https://www.aliexpress.com/item/Free-Shipping-10pcs-SMA-KE-Jack-Female-Connector-To-Edge-Mount-PCB-Board-Receptacle-Adaptor/1432181391.html) -->
+
+# Use cases
+
+The adapter is known to be good enough for prototyping with just single module on a breadboard
+
+![](https://user-images.githubusercontent.com/5849637/164167850-12099496-d6ea-43e4-806b-b43191270118.png)
+
+<br>
+
+and with multiple modules as well
+
+<br>
+
+![](https://github.com/lyusupov/SoftRF/blob/master/documents/images/Octave-1.jpg)
+
